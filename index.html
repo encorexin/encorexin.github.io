@@ -55,25 +55,22 @@
 
   
 <!-- hexo injector head_end start -->
-    <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
     <script>
-      fetch('https://v1.hitokoto.cn/?c=i&c=l')
-        .then(function (res){
-          return res.json();
-        })
-        .then(function (data) {
-          var hitokoto = document.getElementById('hitokoto');
-          var from = document.getElementById('from');
-          var from_who = document.getElementById('from_who');
-          hitokoto.innerText = data.hitokoto;
-          from.innerText = data.from;
-          from_who.innerText = data.from_who; 
-        })
-        .catch(function (err) {
-          console.error(err);
-        })
-    </script>
+    var xhr = new XMLHttpRequest();
+    xhr.open('get', 'https://v1.hitokoto.cn/?c=i&c=l');
+    xhr.onreadystatechange = function () {
+      if (xhr.readyState === 4) {
+        var data = JSON.parse(xhr.responseText);
+        var hitokoto = document.getElementById('hitokoto');
+        var from = document.getElementById('from');
+        var from_who = document.getElementById('from_who');
+        hitokoto.innerText = data.hitokoto;
+        from.innerText = data.from;
+        from_who.innerText = data.from_who;
+      }
+    }
+    xhr.send();
+  </script>
     <!-- hexo injector head_end end --></head>
 
 <body>
