@@ -30,8 +30,8 @@
 <meta property="og:site_name" content="小辛的互联网作坊">
 <meta property="og:description" content="小辛的个人知识库">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-04-04T07:48:13.667Z">
-<meta property="article:modified_time" content="2023-04-04T07:48:13.667Z">
+<meta property="article:published_time" content="2023-04-04T08:33:09.280Z">
+<meta property="article:modified_time" content="2023-04-04T08:33:09.280Z">
 <meta property="article:author" content="Encore Xin">
 <meta property="article:tag" content="小辛,小辛的互联网作坊,encore,ENCORE,">
 <meta name="twitter:card" content="summary">
@@ -60,23 +60,16 @@
 
   
 <!-- hexo injector head_end start -->
-    <script>
-    var xhr = new XMLHttpRequest();
-    xhr.open('get', 'https://v1.hitokoto.cn/?c=i&c=l');
-    xhr.onreadystatechange = function () {
-      if (xhr.readyState === 4) {
-        var data = JSON.parse(xhr.responseText);
-        var hitokoto = document.getElementById('hitokoto');
-        var from = document.getElementById('from');
-        var from_who = document.getElementById('from_who');
-        hitokoto.innerText = data.hitokoto;
-        from.innerText = data.from;
-        from_who.innerText = data.from_who;
-      }
-    }
-    xhr.send();
-  </script>
-    <!-- hexo injector head_end end --></head>
+  <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+  <script type="text/javascript">
+  jinrishici.load(function(result) {
+    var sentence = document.querySelector("#poem_sentence")
+    var info = document.querySelector("#poem_info")
+    sentence.innerHTML = result.data.content
+    info.innerHTML = '---【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'
+  });
+</script>
+  <!-- hexo injector head_end end --></head>
 
 <body>
   
