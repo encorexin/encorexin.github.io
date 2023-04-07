@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://encorexin.me/notes/hello-world.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/about/index.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/index.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/Hexo%E6%90%AD%E5%BB%BA%E7%AC%94%E8%AE%B0/index.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/Java%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/index.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/index.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/MarkDown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/index.html</loc>
+    
+    <lastmod>2023-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://encorexin.me/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://encorexin.me/tags/redroid/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/tags/linux/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://encorexin.me/categories/Linux/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
