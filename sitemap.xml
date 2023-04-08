@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://encorexin.me/notes/hello-world.html</loc>
+    <loc>https://encorexin.me/hello-world/hello-world.html</loc>
     
     <lastmod>2023-04-08</lastmod>
     
@@ -101,6 +101,13 @@
 
   
   <url>
+    <loc>https://encorexin.me/tags/hello-world/</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://encorexin.me/tags/linux/</loc>
     <lastmod>2023-04-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,6 +143,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://encorexin.me/categories/hello-world/</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://encorexin.me/categories/Linux/</loc>

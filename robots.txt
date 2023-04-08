@@ -7,6 +7,9 @@ Allow: /categories/
 Allow: /about/
 Allow: /wiki/
 Allow: /Linux/
+Alllow: /notes/
+Allow: /friends/
+allow: /hello-world/
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
