@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://encorexin.me/hello-world/hello-world.html</loc>
-    
-    <lastmod>2023-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/Linux/Rime/rime-installation-guide.html</loc>
-    
-    <lastmod>2023-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
-    
-    <lastmod>2023-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://encorexin.me/about/index.html</loc>
     
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +13,7 @@
   <url>
     <loc>https://encorexin.me/friends/index.html</loc>
     
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,43 +22,70 @@
   <url>
     <loc>https://encorexin.me/notes/index.html</loc>
     
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://encorexin.me/notes/hexo-notes/index.html</loc>
+    <loc>https://encorexin.me/notes/hexo/index.html</loc>
     
-    <lastmod>2023-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/notes/java-notes/index.html</loc>
-    
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://encorexin.me/notes/linux-notes/index.html</loc>
+    <loc>https://encorexin.me/notes/java/index.html</loc>
     
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://encorexin.me/notes/markdown-notes/index.html</loc>
+    <loc>https://encorexin.me/notes/linux/index.html</loc>
     
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/markdown/index.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/hello-world/hello-world.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/Rime/rime-installation-guide.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
+    
+    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +94,7 @@
 
   <url>
     <loc>https://encorexin.me/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,42 +102,42 @@
   
   <url>
     <loc>https://encorexin.me/tags/hello-world/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/linux/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/rime/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/fedora/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/redroid/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/android/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -146,21 +146,21 @@
   
   <url>
     <loc>https://encorexin.me/categories/hello-world/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/categories/Linux/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/categories/Linux/Rime/</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
