@@ -56,24 +56,6 @@
   </url>
   
   <url>
-    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
-    
-    <lastmod>2023-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/about/index.html</loc>
-    
-    <lastmod>2023-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://encorexin.me/hello-world/hello-world.html</loc>
     
     <lastmod>2023-04-12</lastmod>
@@ -84,6 +66,24 @@
   
   <url>
     <loc>https://encorexin.me/Linux/Rime/rime-installation-guide.html</loc>
+    
+    <lastmod>2023-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
+    
+    <lastmod>2023-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/about/index.html</loc>
     
     <lastmod>2023-04-12</lastmod>
     
