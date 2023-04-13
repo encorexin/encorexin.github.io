@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://encorexin.me/friends/index.html</loc>
-    
-    <lastmod>2023-04-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://encorexin.me/notes/index.html</loc>
     
     <lastmod>2023-04-13</lastmod>
@@ -56,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://encorexin.me/friends/index.html</loc>
+    
+    <lastmod>2023-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://encorexin.me/hello-world/hello-world.html</loc>
     
     <lastmod>2023-04-13</lastmod>
@@ -84,6 +84,15 @@
   
   <url>
     <loc>https://encorexin.me/about/index.html</loc>
+    
+    <lastmod>2023-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/assets/data/linux_command.json</loc>
     
     <lastmod>2023-04-13</lastmod>
     
