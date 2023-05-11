@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://encorexin.me/Proxmox-VE/PVE/pve-installation-record.html</loc>
+    <loc>https://encorexin.me/Proxmox-VE/pve-installation-record.html</loc>
     
     <lastmod>2023-05-11</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://encorexin.me/Linux/Rime/rime-installation-guide.html</loc>
+    <loc>https://encorexin.me/Linux/rime-installation-guide.html</loc>
     
     <lastmod>2023-05-11</lastmod>
     
@@ -236,20 +236,6 @@
   
   <url>
     <loc>https://encorexin.me/categories/Linux/</loc>
-    <lastmod>2023-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/categories/Proxmox-VE/PVE/</loc>
-    <lastmod>2023-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/categories/Linux/Rime/</loc>
     <lastmod>2023-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
