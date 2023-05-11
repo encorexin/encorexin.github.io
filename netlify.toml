@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://encorexinme.netlify.app/*"
-  to = "https://encorexin.me/:splat"
+  from = "https://encorexinme.netlify.app/"
+  to = "https://encorexin.me/"
   status = 301
   force = true
