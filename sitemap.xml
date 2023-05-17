@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://encorexin.me/notes/linux/fedora.html</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/linux/index.html</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/markdown/index.html</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://encorexin.me/friends/index.html</loc>
     
     <lastmod>2023-05-17</lastmod>
@@ -38,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://encorexin.me/notes/linux/fedora.html</loc>
+    <loc>https://encorexin.me/about/index.html</loc>
     
     <lastmod>2023-05-17</lastmod>
     
@@ -47,16 +74,7 @@
   </url>
   
   <url>
-    <loc>https://encorexin.me/notes/linux/index.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/notes/markdown/index.html</loc>
+    <loc>https://encorexin.me/assets/data/linux_command.json</loc>
     
     <lastmod>2023-05-17</lastmod>
     
@@ -66,6 +84,15 @@
   
   <url>
     <loc>https://encorexin.me/hello-world/hello-world.html</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/install-waydroid-on-Fedora38.html</loc>
     
     <lastmod>2023-05-17</lastmod>
     
@@ -109,24 +136,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://encorexin.me/about/index.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/assets/data/linux_command.json</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://encorexin.me/</loc>
@@ -138,6 +147,20 @@
   
   <url>
     <loc>https://encorexin.me/tags/hello-world/</loc>
+    <lastmod>2023-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/tags/Fedora/</loc>
+    <lastmod>2023-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/tags/Waydroid/</loc>
     <lastmod>2023-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -237,14 +260,14 @@
   </url>
   
   <url>
-    <loc>https://encorexin.me/categories/Proxmox-VE/</loc>
+    <loc>https://encorexin.me/categories/Linux/</loc>
     <lastmod>2023-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://encorexin.me/categories/Linux/</loc>
+    <loc>https://encorexin.me/categories/Proxmox-VE/</loc>
     <lastmod>2023-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

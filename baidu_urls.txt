@@ -1,3 +1,4 @@
+https://encorexin.me/Linux/install-waydroid-on-Fedora38.html
 https://encorexin.me/Proxmox-VE/pve-installation-record.html
 https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html
 https://encorexin.me/Linux/rime-installation-guide.html
