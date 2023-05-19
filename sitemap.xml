@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://encorexin.me/notes/linux/fedora.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/notes/linux/index.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/notes/markdown/index.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://encorexin.me/friends/index.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +13,7 @@
   <url>
     <loc>https://encorexin.me/notes/index.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +22,7 @@
   <url>
     <loc>https://encorexin.me/notes/hexo/index.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,25 +31,34 @@
   <url>
     <loc>https://encorexin.me/notes/java/index.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://encorexin.me/about/index.html</loc>
+    <loc>https://encorexin.me/notes/linux/fedora.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://encorexin.me/assets/data/linux_command.json</loc>
+    <loc>https://encorexin.me/notes/linux/index.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/notes/markdown/index.html</loc>
+    
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +67,7 @@
   <url>
     <loc>https://encorexin.me/hello-world/hello-world.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +76,7 @@
   <url>
     <loc>https://encorexin.me/Linux/install-waydroid-on-Fedora38.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +85,7 @@
   <url>
     <loc>https://encorexin.me/Proxmox-VE/pve-installation-record.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +94,7 @@
   <url>
     <loc>https://encorexin.me/Linux/rime-installation-guide.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +103,7 @@
   <url>
     <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +112,25 @@
   <url>
     <loc>https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/about/index.html</loc>
+    
+    <lastmod>2023-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/assets/data/linux_command.json</loc>
+    
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +139,7 @@
 
   <url>
     <loc>https://encorexin.me/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,105 +147,105 @@
   
   <url>
     <loc>https://encorexin.me/tags/hello-world/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/Fedora/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/Waydroid/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/PVE/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/Proxmox-VE/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/linux/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/rime/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/fedora/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/redroid/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/android/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/Linux/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/Xiaomi/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/Mix2s/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/polaris/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/tags/Mobian/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -254,21 +254,21 @@
   
   <url>
     <loc>https://encorexin.me/categories/hello-world/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/categories/Linux/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://encorexin.me/categories/Proxmox-VE/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
