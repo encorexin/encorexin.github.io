@@ -1,3 +1,4 @@
+https://encorexin.me/Linux/install-debian12-with-btrfs-subvolume-and-compile-a-new-kernel.html
 https://encorexin.me/Linux/install-waydroid-on-Fedora38.html
 https://encorexin.me/Proxmox-VE/pve-installation-record.html
 https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html
