@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://encorexin.me/Archlinux/archlinux-install-log-1.html</loc>
+    <lastmod>2023-11-14</lastmod>
+  </url>
+  <url>
     <loc>https://encorexin.me/hello-world/hello-world.html</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-14</lastmod>
   </url>
   <url>
     <loc>https://encorexin.me/Linux/install-debian12-with-btrfs-subvolume-and-compile-a-new-kernel.html</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-14</lastmod>
   </url>
   <url>
     <loc>https://encorexin.me/Linux/install-waydroid-on-Fedora38.html</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-14</lastmod>
   </url>
   <url>
     <loc>https://encorexin.me/Proxmox-VE/pve-installation-record.html</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-14</lastmod>
   </url>
   <url>
     <loc>https://encorexin.me/Linux/rime-installation-guide.html</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-14</lastmod>
   </url>
   <url>
     <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-14</lastmod>
   </url>
   <url>
     <loc>https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html</loc>
-    <lastmod>2023-07-18</lastmod>
+    <lastmod>2023-11-14</lastmod>
   </url>
 </urlset> 
