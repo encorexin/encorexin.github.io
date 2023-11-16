@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://encorexin.me/assets/data/linux_command.json</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://encorexin.me/Archlinux/archlinux-install-log-1.html</loc>
     
     <lastmod>2023-11-16</lastmod>
@@ -147,15 +156,6 @@
   
   <url>
     <loc>https://encorexin.me/about/index.html</loc>
-    
-    <lastmod>2023-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/assets/data/linux_command.json</loc>
     
     <lastmod>2023-11-16</lastmod>
     
