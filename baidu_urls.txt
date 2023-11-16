@@ -1,3 +1,4 @@
+https://encorexin.me/Archlinux/archlinux-install-log-2.html
 https://encorexin.me/Archlinux/archlinux-install-log-1.html
 https://encorexin.me/Linux/install-debian12-with-btrfs-subvolume-and-compile-a-new-kernel.html
 https://encorexin.me/Linux/install-waydroid-on-Fedora38.html
