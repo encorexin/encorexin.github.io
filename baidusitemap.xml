@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://encorexin.me/Linux/rime-installation-guide.html</loc>
+    <lastmod>2023-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
+    <lastmod>2023-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html</loc>
+    <lastmod>2023-11-16</lastmod>
+  </url>
+  <url>
     <loc>https://encorexin.me/Archlinux/archlinux-install-log-1.html</loc>
     <lastmod>2023-11-16</lastmod>
   </url>
@@ -22,18 +34,6 @@
   </url>
   <url>
     <loc>https://encorexin.me/Proxmox-VE/pve-installation-record.html</loc>
-    <lastmod>2023-11-16</lastmod>
-  </url>
-  <url>
-    <loc>https://encorexin.me/Linux/rime-installation-guide.html</loc>
-    <lastmod>2023-11-16</lastmod>
-  </url>
-  <url>
-    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
-    <lastmod>2023-11-16</lastmod>
-  </url>
-  <url>
-    <loc>https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html</loc>
     <lastmod>2023-11-16</lastmod>
   </url>
 </urlset> 

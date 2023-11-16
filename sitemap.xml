@@ -38,6 +38,15 @@
   </url>
   
   <url>
+    <loc>https://encorexin.me/notes/linux/debian.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://encorexin.me/notes/linux/fedora.html</loc>
     
     <lastmod>2023-11-16</lastmod>
@@ -57,6 +66,42 @@
   
   <url>
     <loc>https://encorexin.me/notes/markdown/index.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/rime-installation-guide.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://encorexin.me/about/index.html</loc>
     
     <lastmod>2023-11-16</lastmod>
     
@@ -120,42 +165,6 @@
   
   <url>
     <loc>https://encorexin.me/Proxmox-VE/pve-installation-record.html</loc>
-    
-    <lastmod>2023-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/Linux/rime-installation-guide.html</loc>
-    
-    <lastmod>2023-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/Linux/run-redroid-on-fedora.html</loc>
-    
-    <lastmod>2023-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/Linux/xiaomi-polaris-flash-in-mobian.html</loc>
-    
-    <lastmod>2023-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://encorexin.me/about/index.html</loc>
     
     <lastmod>2023-11-16</lastmod>
     
